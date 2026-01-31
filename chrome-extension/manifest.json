@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Traducteur Darija",
+  "version": "1.0",
+  "description": "Traduit l'anglais en Darija via notre serveur Java local",
+  "permissions": ["sidePanel"],
+  "host_permissions": ["http://localhost:8081/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Ouvrir le traducteur"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
