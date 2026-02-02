@@ -16,7 +16,7 @@ Le projet repose sur une architecture hybride :
 
 🛠️ Technologies utilisées
 
-* Java / Jakarta EE / JAX-RS (webservice REST local)  
+* Java /JAX-RS (webservice REST local)  
 * Google Gemini API (traduction IA)  
 * JavaScript / HTML5 / CSS3 (interface side panel et content script)  
 * Chrome Extension (Manifest V3)  
