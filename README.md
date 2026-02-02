@@ -33,4 +33,4 @@ Un filtre CORS permet à l’extension Chrome d’accéder au serveur local sans
 
 📺 Démonstration Vidéo  
 Vidéo de présentation et test réel de l’extension :  
-🔗 [Lien Google Drive](https://drive.google.com/file/d/...) 
+🔗 [Lien Google Drive](https://docs.google.com/videos/d/1JmeYnSvPqn7P3La0z99kuNBgw0MKHAnX6CrFkaMZmUw/edit?usp=sharing) 
